@@ -208,4 +208,172 @@
     <xhtml:link rel="alternate" hreflang="pl" href="https://beetario.ch/pl/sources/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://beetario.ch/sources/"/>
   </url>
+  <url>
+    <loc>https://beetario.ch/guide/companion-planting-chart/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://beetario.ch/guide/companion-planting-chart/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://beetario.ch/de/ratgeber/mischkultur-tabelle/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://beetario.ch/guide/companion-planting-chart/"/>
+  </url>
+  <url>
+    <loc>https://beetario.ch/guide/crop-rotation/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://beetario.ch/guide/crop-rotation/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://beetario.ch/de/ratgeber/fruchtfolge/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://beetario.ch/guide/crop-rotation/"/>
+  </url>
+  <url>
+    <loc>https://beetario.ch/guide/raised-bed-planner/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://beetario.ch/guide/raised-bed-planner/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://beetario.ch/de/ratgeber/hochbeet-bepflanzen/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://beetario.ch/guide/raised-bed-planner/"/>
+  </url>
+  <url>
+    <loc>https://beetario.ch/guide/last-frost-date/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://beetario.ch/guide/last-frost-date/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://beetario.ch/de/ratgeber/eisheiligen/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://beetario.ch/guide/last-frost-date/"/>
+  </url>
+  <url>
+    <loc>https://beetario.ch/guide/how-often-to-water-tomatoes/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://beetario.ch/guide/how-often-to-water-tomatoes/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://beetario.ch/de/ratgeber/tomaten-giessen/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://beetario.ch/guide/how-often-to-water-tomatoes/"/>
+  </url>
+  <url>
+    <loc>https://beetario.ch/guide/how-to-water-orchids/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://beetario.ch/guide/how-to-water-orchids/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://beetario.ch/de/ratgeber/orchideen-pflege/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://beetario.ch/guide/how-to-water-orchids/"/>
+  </url>
+  <url>
+    <loc>https://beetario.ch/guide/pruning-lavender/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://beetario.ch/guide/pruning-lavender/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://beetario.ch/de/ratgeber/lavendel-schneiden/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://beetario.ch/guide/pruning-lavender/"/>
+  </url>
+  <url>
+    <loc>https://beetario.ch/guide/pruning-hydrangeas/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://beetario.ch/guide/pruning-hydrangeas/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://beetario.ch/de/ratgeber/hortensien-schneiden/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://beetario.ch/guide/pruning-hydrangeas/"/>
+  </url>
+  <url>
+    <loc>https://beetario.ch/guide/when-to-prune-roses/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://beetario.ch/guide/when-to-prune-roses/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://beetario.ch/de/ratgeber/rosen-schneiden/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://beetario.ch/guide/when-to-prune-roses/"/>
+  </url>
+  <url>
+    <loc>https://beetario.ch/guide/when-to-prune-apple-trees/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://beetario.ch/guide/when-to-prune-apple-trees/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://beetario.ch/de/ratgeber/apfelbaum-schneiden/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://beetario.ch/guide/when-to-prune-apple-trees/"/>
+  </url>
+  <url>
+    <loc>https://beetario.ch/guide/pruning-olive-tree/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://beetario.ch/guide/pruning-olive-tree/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://beetario.ch/de/ratgeber/olivenbaum-schneiden/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://beetario.ch/guide/pruning-olive-tree/"/>
+  </url>
+  <url>
+    <loc>https://beetario.ch/guide/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://beetario.ch/guide/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://beetario.ch/de/ratgeber/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://beetario.ch/guide/"/>
+  </url>
+  <url>
+    <loc>https://beetario.ch/de/ratgeber/mischkultur-tabelle/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://beetario.ch/guide/companion-planting-chart/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://beetario.ch/de/ratgeber/mischkultur-tabelle/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://beetario.ch/guide/companion-planting-chart/"/>
+  </url>
+  <url>
+    <loc>https://beetario.ch/de/ratgeber/fruchtfolge/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://beetario.ch/guide/crop-rotation/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://beetario.ch/de/ratgeber/fruchtfolge/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://beetario.ch/guide/crop-rotation/"/>
+  </url>
+  <url>
+    <loc>https://beetario.ch/de/ratgeber/hochbeet-bepflanzen/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://beetario.ch/guide/raised-bed-planner/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://beetario.ch/de/ratgeber/hochbeet-bepflanzen/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://beetario.ch/guide/raised-bed-planner/"/>
+  </url>
+  <url>
+    <loc>https://beetario.ch/de/ratgeber/eisheiligen/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://beetario.ch/guide/last-frost-date/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://beetario.ch/de/ratgeber/eisheiligen/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://beetario.ch/guide/last-frost-date/"/>
+  </url>
+  <url>
+    <loc>https://beetario.ch/de/ratgeber/tomaten-giessen/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://beetario.ch/guide/how-often-to-water-tomatoes/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://beetario.ch/de/ratgeber/tomaten-giessen/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://beetario.ch/guide/how-often-to-water-tomatoes/"/>
+  </url>
+  <url>
+    <loc>https://beetario.ch/de/ratgeber/orchideen-pflege/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://beetario.ch/guide/how-to-water-orchids/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://beetario.ch/de/ratgeber/orchideen-pflege/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://beetario.ch/guide/how-to-water-orchids/"/>
+  </url>
+  <url>
+    <loc>https://beetario.ch/de/ratgeber/lavendel-schneiden/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://beetario.ch/guide/pruning-lavender/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://beetario.ch/de/ratgeber/lavendel-schneiden/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://beetario.ch/guide/pruning-lavender/"/>
+  </url>
+  <url>
+    <loc>https://beetario.ch/de/ratgeber/hortensien-schneiden/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://beetario.ch/guide/pruning-hydrangeas/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://beetario.ch/de/ratgeber/hortensien-schneiden/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://beetario.ch/guide/pruning-hydrangeas/"/>
+  </url>
+  <url>
+    <loc>https://beetario.ch/de/ratgeber/rosen-schneiden/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://beetario.ch/guide/when-to-prune-roses/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://beetario.ch/de/ratgeber/rosen-schneiden/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://beetario.ch/guide/when-to-prune-roses/"/>
+  </url>
+  <url>
+    <loc>https://beetario.ch/de/ratgeber/apfelbaum-schneiden/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://beetario.ch/guide/when-to-prune-apple-trees/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://beetario.ch/de/ratgeber/apfelbaum-schneiden/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://beetario.ch/guide/when-to-prune-apple-trees/"/>
+  </url>
+  <url>
+    <loc>https://beetario.ch/de/ratgeber/olivenbaum-schneiden/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://beetario.ch/guide/pruning-olive-tree/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://beetario.ch/de/ratgeber/olivenbaum-schneiden/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://beetario.ch/guide/pruning-olive-tree/"/>
+  </url>
+  <url>
+    <loc>https://beetario.ch/de/ratgeber/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://beetario.ch/guide/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://beetario.ch/de/ratgeber/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://beetario.ch/guide/"/>
+  </url>
 </urlset>

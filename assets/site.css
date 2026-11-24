@@ -249,3 +249,34 @@ th { background: var(--green-soft); }
 .site-footer nav a { color: var(--ink-soft); text-decoration: none; }
 .site-footer nav a:hover { color: var(--ink); text-decoration: underline; }
 .fine { color: var(--ink-soft); font-size: .85rem; margin: 0; }
+
+/* ---------------------------------------------------------------- Ratgeber */
+.guide { padding: 20px 0 64px; }
+.guide h1 { font-size: clamp(1.9rem, 4.6vw, 2.7rem); margin: 10px 0 10px; }
+.guide h2 { font-size: clamp(1.35rem, 3vw, 1.7rem); margin: 1.8em 0 .5em; }
+.guide h3 { margin-top: 1.3em; }
+.guide li { margin: 4px 0; }
+.crumbs ol { list-style: none; display: flex; flex-wrap: wrap; gap: 4px; padding: 0; margin: 8px 0 0; font-size: .9rem; color: var(--ink-soft); }
+.crumbs li + li::before { content: "›"; margin-right: 4px; }
+.crumbs a { color: var(--ink-soft); }
+.byline { color: var(--ink-soft); font-size: .92rem; }
+.guide-hero { margin: 18px 0; }
+.guide-hero img { width: 100%; border-radius: var(--radius); }
+.answer { background: var(--green-soft); border-radius: var(--radius); padding: 18px 20px 4px; margin: 0 0 8px; font-size: 1.08rem; }
+.guide .toc ol { margin: 0; padding-left: 22px; columns: 2 240px; }
+.graphic { margin: 22px 0; }
+.graphic img { width: 100%; border-radius: 14px; border: 1px solid var(--line); background: var(--paper); }
+.graphic figcaption, .guide .shot figcaption { margin-top: 8px; font-size: .9rem; color: var(--ink-soft); }
+.guide .shot { margin: 24px auto; }
+.tip { border-left: 4px solid var(--leaf); padding: 4px 0 4px 16px; margin: 16px 0; color: var(--ink-soft); }
+.guide .table table { min-width: 0; }
+.sources ol { padding-left: 22px; font-size: .95rem; }
+.guide-grid { list-style: none; padding: 0; margin: 0 0 16px; display: grid; gap: 14px; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); }
+.guide-card a { display: flex; flex-direction: column; gap: 6px; padding: 18px; height: 100%; color: var(--ink); text-decoration: none; }
+.guide-card a:hover strong { color: var(--green); }
+.guide-card .feature-ico { align-self: flex-start; margin-bottom: 4px; }
+.guide-card span:last-child { color: var(--ink-soft); font-size: .95rem; }
+.related { margin-top: 40px; }
+.guide-cta { display: grid; gap: 14px; align-items: center; padding: 20px 22px; margin-top: 32px; }
+.guide-cta p { margin: 4px 0 0; color: var(--ink-soft); }
+@media (min-width: 700px) { .guide-cta { grid-template-columns: 1fr auto; } }
